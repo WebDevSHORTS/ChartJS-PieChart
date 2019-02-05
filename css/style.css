@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+}
+
+.chart-wrapper {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
